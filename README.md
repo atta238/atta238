@@ -13,7 +13,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](https://ums.asu.edu.eg/) at [Ain-Shams University](https://www.asu.edu.eg/ar).
+- :school: I am a `Junior` at [Faculty of Computer And Information Science](https://ums.asu.edu.eg/) at [Ain-Shams University](https://www.asu.edu.eg/ar).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
