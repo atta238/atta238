@@ -27,7 +27,7 @@
 	<a href="https://wa.me/0201069017980" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="Ahmed Atta" height="35" width="40" /> </a>
-	<a href="https://www.linkedin.com/in/ahmed-atta-a23b23h7/" target="blank"><img align="center"
+	<a href="www.linkedin.com/in/ahmed-atta-mo" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Ahmed Atta" height="35" width="40" /> </a> 
   <a href="https://www.facebook.com/ahmed.atta.45668" target="blank"><img align="center"
