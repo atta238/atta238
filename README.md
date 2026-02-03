@@ -18,7 +18,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1pnr81Jpo1FVPbnImplBfhz4pVECIkAqH/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY CV](https://drive.google.com/file/d/1jr2axUocmlr0TZeHWYZ6aXtDQ6bsml2T/view?usp=sharing).
 
 <br>
 
@@ -113,13 +113,3 @@
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
 </p>
-
-<br> 
-
----
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Statistical Data
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=atta238&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="atta238" 
-    bg_color=#808080/></p>
