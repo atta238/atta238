@@ -18,7 +18,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY CV](https://drive.google.com/file/d/1jr2axUocmlr0TZeHWYZ6aXtDQ6bsml2T/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY CV](https://drive.google.com/file/d/1w2Lu2soT9yj8qYyqJ7O7jzGgyT6aAOLe/view?usp=sharing).
 
 <br>
 
@@ -27,7 +27,7 @@
 	<a href="https://wa.me/0201069017980" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="Ahmed Atta" height="35" width="40" /> </a>
-	<a href="www.linkedin.com/in/ahmed-atta-mo" target="blank"><img align="center"
+	<a href="https://www.linkedin.com/in/ahmed-atta-mo" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Ahmed Atta" height="35" width="40" /> </a> 
   <a href="https://www.facebook.com/ahmed.atta.45668" target="blank"><img align="center"
